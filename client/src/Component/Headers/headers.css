@@ -1,0 +1,108 @@
+.navbar-nav .nav-link {
+  color: #13243f;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #04abcc;
+}
+
+.navbar.sticky {
+  background-color: #13243f !important;
+  width: 100% !important;
+  height: 40%;
+  color: white;
+}
+
+.sticky .navbar-nav .nav-link {
+  color: white;
+}
+
+.sticky .navbar-nav .nav-link:hover {
+  color: #04abcc;
+}
+
+.sticky .navbar-nav .nav-link:active {
+  color: red;
+}
+
+.sticky li a {
+  color: white;
+}
+
+.sticky img {
+  height: 62px;
+  width: 95px;
+}
+
+.navbar-toggler-icon {
+  font-size: 24px;
+  color: #04abcc;
+}
+
+nav .fa-linkedin {
+  color: #13243f;
+}
+
+nav .fa-linkedin:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: #04abcc;
+}
+
+nav .fa-facebook-f {
+  color: #13243f;
+}
+
+nav .fa-facebook-f:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: #04abcc;
+}
+
+nav .fa-instagram {
+  color: #13243f;
+}
+
+nav .fa-instagram:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: #04abcc;
+}
+
+nav .fa-whatsapp {
+  color: #13243f;
+}
+
+nav .fa-whatsapp:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: #04abcc;
+}
+
+.sticky .fa-facebook-f {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: white;
+}
+
+.sticky .fa-instagram {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: white;
+}
+
+.sticky .fa-linkedin {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: white;
+}
+
+.sticky .fa-whatsapp {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 0px 0px;
+  color: white;
+}
+
+.navbar-brand {
+  margin-left: 35px;
+}

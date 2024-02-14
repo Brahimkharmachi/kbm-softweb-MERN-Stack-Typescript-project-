@@ -1,0 +1,79 @@
+.chose h2 {
+  color: #13243f;
+  font-size: 36px;
+  font-family: "Marcellus", serif;
+  font-weight: bold;
+  padding-top: 33px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.chose p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  top: -30px;
+  color: #13243f;
+  font-size: 18px;
+  text-align: center;
+}
+
+#shield img {
+  height: 85px;
+  width: 85px;
+}
+
+#shield h4 {
+  color: #13243f;
+  font-family: "Marcellus", serif;
+}
+
+#shield p {
+  color: #13243f;
+}
+
+#Integrity img {
+  height: 85px;
+  width: 85px;
+}
+
+#Integrity h4 {
+  color: #13243f;
+  font-family: "Marcellus", serif;
+}
+
+#Integrity p {
+  color: #13243f;
+}
+
+#excellence img {
+  height: 85px;
+  width: 85px;
+}
+
+#excellence h4 {
+  color: #13243f;
+  font-family: "Marcellus", serif;
+}
+
+#excellence p {
+  color: #13243f;
+}
+
+#aboutmetwo {
+  margin-bottom: 50px;
+}
+
+.aboutme {
+  background-color: #13243f;
+}
+
+.aboutme img {
+  height: 350px;
+}
+
+#contact {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,66 @@
+#softdev {
+  background-color: #13243f;
+  padding-top: 31px;
+  padding-bottom: 25px;
+}
+
+.contactservice {
+  background-color: #13243f;
+}
+
+#pcontactservice h4 {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Marcellus", serif;
+  color: white;
+}
+
+#pcontactservice p {
+  font-size: 20px;
+  color: white;
+}
+
+#softdev h4 {
+  color: #04abcc;
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 22px;
+}
+
+#softdev p {
+  color: white;
+  font-size: 18px;
+}
+
+#softvideo {
+  padding-top: 31px;
+  padding-bottom: 25px;
+}
+
+#softvideo h4 {
+  color: #13243f;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 22px;
+}
+
+#softvideo p {
+  color: #13243f;
+  font-size: 20px;
+}
+
+#softvideo button {
+  height: 51px;
+  background-color: #13243f;
+  color: white;
+}
+
+#softdev button {
+  height: 51px;
+  background-color: white;
+}
+
+.bra {
+  padding-top: 15px;
+  padding-bottom: 40px;
+}

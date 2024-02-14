@@ -1,0 +1,169 @@
+.carousel-inner .btn {
+  position: relative;
+  top: -134px;
+  right: -52px;
+  width: -43px;
+  height: 51px;
+  background-color: white;
+}
+
+.serviceshop h2 {
+  color: #13243f;
+  font-size: 36px;
+  font-family: "Marcellus", serif;
+  font-weight: bold;
+  padding-top: 33px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.card {
+  height: 253px;
+  width: 311px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px 0px;
+}
+
+.card p {
+  color: #13243f;
+  font-size: 21px;
+  font-family: "Marcellus", serif;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  top: -21px;
+}
+
+.cardshop {
+  display: flex;
+  justify-content: center;
+  grid-gap: 30px;
+  padding-bottom: 100px;
+}
+
+@media (max-width: 992px) {
+  .card {
+    width: 45%;
+  }
+
+  .serdev,
+  .lets {
+    width: 100%;
+  }
+
+  .bra,
+  .pcontact {
+    margin-left: 0;
+    margin-top: 10px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .cardshop {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 100%;
+  }
+}
+
+#contacthome .pcontact {
+  position: relative;
+  left: 820px;
+}
+
+.contacthome h4 {
+  font-weight: bold;
+  font-size: 28px;
+  font-family: "Marcellus", serif;
+  color: black;
+}
+
+.contacthome p {
+  font-size: 20px;
+  color: black;
+}
+
+#contacthome {
+  height: 475px;
+  background-color: #ededed;
+}
+
+#abouthome {
+  background-color: #13243f;
+}
+
+#abouthome h4 {
+  color: #04abcc;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 22px;
+}
+
+#abouthome p {
+  color: white;
+  font-size: 20px;
+}
+
+#abouthome button {
+  height: 51px;
+  background-color: white;
+}
+
+#pcontact h4 {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Marcellus", serif;
+  color: black;
+}
+
+#pcontact p {
+  font-size: 20px;
+  color: black;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 0.3s;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.button::before {
+  content: "";
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 100%;
+  height: 100%;
+  top: 100%;
+  left: 0;
+  transition: top 0.3s, background-color 0.3s;
+  z-index: -1;
+}
+
+.button:hover::before {
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.button:hover {
+  transform: translateY(-5px);
+}
+
+#contact {
+  margin-bottom: 50px;
+}
