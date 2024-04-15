@@ -65,7 +65,7 @@ const Footer = () => {
       >
         © 2024 Copyright:
         <a className="text-white" href="https://mdbootstrap.com/">
-          Kbm-services.com
+           Kbm-softweb.com
         </a>
       </div>
     </MDBFooter>

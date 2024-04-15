@@ -29,7 +29,7 @@ function Service() {
       </div>
 
       <div className="serviceshop">
-        <h2> KBM Services Shop </h2>
+        <h2> KBM Softweb Shop </h2>
       </div>
 
       <div className="container">

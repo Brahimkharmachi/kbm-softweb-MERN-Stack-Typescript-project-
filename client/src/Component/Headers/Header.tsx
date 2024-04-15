@@ -28,7 +28,7 @@ function ColorSchemesExample() {
     >
       <div className="container-fluid">
         <a className="navbar-brand " href="#">
-          <img src="./kbmlogo.png" alt="logo" width="150px" />
+          <img src="./kbmsoftweb.png" alt="logo" width="150px" />
         </a>
         <button
           className="navbar-toggler"

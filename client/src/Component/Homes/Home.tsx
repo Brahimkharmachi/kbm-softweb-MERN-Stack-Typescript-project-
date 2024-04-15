@@ -32,7 +32,7 @@ function Home() {
       </div>
 
       <div className="serviceshop">
-        <h2> KBM Services Shop </h2>
+        <h2> KBM Softweb Shop </h2>
       </div>
 
       <div className="container">
@@ -82,7 +82,7 @@ function Home() {
               <div className="bra">
                 <h4 data-aos="fade-left">Professional services</h4>
                 <p data-aos="fade-left">
-                  KBM Services will always act with integrity, and only use the
+                  KBM Softweb will always act with integrity, and only use the
                   very best proven methods for your IT needs.
                 </p>
                 <a href="/about">
